@@ -1,0 +1,14 @@
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\bin\Debug\net8.0\DataKonsumen.exe
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\bin\Debug\net8.0\DataKonsumen.deps.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\bin\Debug\net8.0\DataKonsumen.runtimeconfig.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\bin\Debug\net8.0\DataKonsumen.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\bin\Debug\net8.0\DataKonsumen.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.AssemblyInfoInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.AssemblyInfo.cs
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.csproj.CoreCompileInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\refint\DataKonsumen.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.genruntimeconfig.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\ref\DataKonsumen.dll

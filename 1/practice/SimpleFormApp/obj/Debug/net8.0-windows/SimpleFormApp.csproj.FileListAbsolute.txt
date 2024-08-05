@@ -1,0 +1,14 @@
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\bin\Debug\net8.0-windows\SimpleFormApp.exe
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\bin\Debug\net8.0-windows\SimpleFormApp.deps.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\bin\Debug\net8.0-windows\SimpleFormApp.runtimeconfig.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\bin\Debug\net8.0-windows\SimpleFormApp.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\bin\Debug\net8.0-windows\SimpleFormApp.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.AssemblyInfoInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.AssemblyInfo.cs
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\refint\SimpleFormApp.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\SimpleFormApp.genruntimeconfig.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\practice\SimpleFormApp\obj\Debug\net8.0-windows\ref\SimpleFormApp.dll
