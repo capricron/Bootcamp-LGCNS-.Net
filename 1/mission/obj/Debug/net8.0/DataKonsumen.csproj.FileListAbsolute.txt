@@ -12,3 +12,4 @@ C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\re
 C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.pdb
 C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.genruntimeconfig.cache
 C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\ref\DataKonsumen.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\1\mission\obj\Debug\net8.0\DataKonsumen.sourcelink.json

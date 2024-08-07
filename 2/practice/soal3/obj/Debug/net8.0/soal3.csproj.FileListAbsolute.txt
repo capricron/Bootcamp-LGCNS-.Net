@@ -1,0 +1,15 @@
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\bin\Debug\net8.0\soal3.exe
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\bin\Debug\net8.0\soal3.deps.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\bin\Debug\net8.0\soal3.runtimeconfig.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\bin\Debug\net8.0\soal3.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\bin\Debug\net8.0\soal3.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.AssemblyInfoInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.AssemblyInfo.cs
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.csproj.CoreCompileInputs.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.sourcelink.json
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\refint\soal3.dll
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.pdb
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\soal3.genruntimeconfig.cache
+C:\Users\Eris\Documents\GitHub\Bootcamp-LGCNS-.Net\2\practice\soal3\obj\Debug\net8.0\ref\soal3.dll
